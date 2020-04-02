@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/animal-crossing-journal/static/css/main.5f361e03.chunk.css",
+    "main.js": "/animal-crossing-journal/static/js/main.d88f3038.chunk.js",
+    "main.js.map": "/animal-crossing-journal/static/js/main.d88f3038.chunk.js.map",
+    "runtime-main.js": "/animal-crossing-journal/static/js/runtime-main.cf4f27b3.js",
+    "runtime-main.js.map": "/animal-crossing-journal/static/js/runtime-main.cf4f27b3.js.map",
+    "static/js/2.e5555304.chunk.js": "/animal-crossing-journal/static/js/2.e5555304.chunk.js",
+    "static/js/2.e5555304.chunk.js.map": "/animal-crossing-journal/static/js/2.e5555304.chunk.js.map",
+    "index.html": "/animal-crossing-journal/index.html",
+    "precache-manifest.465fdb364a220edf538fa4a89f92dd90.js": "/animal-crossing-journal/precache-manifest.465fdb364a220edf538fa4a89f92dd90.js",
+    "service-worker.js": "/animal-crossing-journal/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/animal-crossing-journal/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e5555304.chunk.js.LICENSE.txt": "/animal-crossing-journal/static/js/2.e5555304.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/animal-crossing-journal/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf4f27b3.js",
+    "static/js/2.e5555304.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d88f3038.chunk.js"
+  ]
+}
